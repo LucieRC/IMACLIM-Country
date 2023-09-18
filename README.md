@@ -1,6 +1,6 @@
-# IMACLIM platform for country 
-General equilibrium model for energy transition analysis
+# IMACLIM platform for country - General equilibrium model for energy transition analysis
 
+## General information
 The version v1 is corresponding to the IMACLIM-S France by relying on the French database:
 Le Treut, Gaëlle; Ghersi, Frédéric (2018), “Hybrid Input-Output tables for France at year 2010”, Mendeley Data, v1 http://dx.doi.org/10.17632/gyv6hxcwt3.1
 
@@ -39,3 +39,6 @@ same conditions as regards security.
 
 The fact that you are presently reading this means that you have had
 knowledge of the CeCILL license and that you accept its terms.
+
+
+## Model structure
